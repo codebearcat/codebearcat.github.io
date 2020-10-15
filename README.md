@@ -1,2 +1,2 @@
 # codebearcat.github.io
-hexo博客专用残酷
+hexo博客专用仓库
